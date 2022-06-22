@@ -4,7 +4,7 @@ cryptography==2.9.2
 decorator==4.4.2
 deepspeech==0.7.1
 future==0.18.2
-numpy==1.17.0
+numpy==1.22.0
 pycparser==2.20
 pydub==0.24.0
 python-telegram-bot==12.7
